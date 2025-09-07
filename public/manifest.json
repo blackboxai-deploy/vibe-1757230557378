@@ -1,0 +1,28 @@
+{
+  "name": "TUP-Cuenca Disaster Preparedness",
+  "short_name": "TUP Safety",
+  "description": "Mobile offline application to enhance disaster preparedness awareness and response among students at Technological University of the Philippines-Cuenca Extension Program",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#dc2626",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/04a57e76-4493-42d0-b507-84a337525ee4.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/9adaa129-9036-4f75-ac72-f0e8d76a22bd.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "safety", "emergency"],
+  "lang": "en-US",
+  "scope": "/",
+  "prefer_related_applications": false
+}
